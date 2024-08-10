@@ -1,0 +1,931 @@
+.forms .bg {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.forms .create-an-account {
+  position: relative;
+  margin: 0 0.1rem 1.3rem 0.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.333;
+  color: #1C1C1C;
+}
+.forms .label {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background {
+  border-radius: 0.4rem;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .input {
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label {
+  margin-right: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .label-1 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-1 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-1 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .container-2 {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .label-4 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-4 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 31.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-3 {
+  opacity: 0.4;
+  width: 28.3rem;
+  height: 1.4rem;
+}
+.forms .left-3 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 29.5rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-4 {
+  position: relative;
+  margin-bottom: 0.4rem;
+  display: flex;
+  width: 31.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .bottom-text {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.385;
+  color: #969696;
+}
+.forms .forms-1-inputs-1-border-input-label-text {
+  position: relative;
+  margin: 0 0 1.3rem 0.1rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .oval {
+  border-radius: 0.3rem;
+  background: #FFFFFF;
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.forms .forms-4-radio-button-on {
+  border-radius: 0.6rem;
+  background: #007BFF;
+  position: relative;
+  margin: 0.1rem 0.5rem 0.1rem 0;
+  display: flex;
+  padding: 0.4rem;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.forms .male {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .radio-button {
+  margin-right: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.forms .background-6 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.forms .forms-4-radio-button-on-1 {
+  margin: 0.1rem 0.5rem 0.1rem 0;
+  display: flex;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.forms .female {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .radio-button-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.forms .container-5 {
+  position: relative;
+  margin: 0 0.1rem 1.3rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .label-3 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-3 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.forms .text {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .forms-1-inputs-3-overrides-text-default-2 {
+  opacity: 0.4;
+  box-sizing: border-box;
+}
+.forms .left-2 {
+  position: relative;
+  margin-right: 0.9rem;
+  width: 13.6rem;
+  box-sizing: border-box;
+}
+.forms .icon-color {
+  width: 0.7rem;
+  height: 0.8rem;
+}
+.forms .right {
+  position: relative;
+  margin: 0.3rem 0;
+  display: flex;
+  width: 1.8rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0.9rem 0.5rem 0.6rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-3 {
+  margin-right: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .label-2 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-2 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-1 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-1 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-2 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .container-7 {
+  position: relative;
+  margin: 0 0 1.3rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .background-7 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.forms .text-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #FFFFFF;
+}
+.forms .buttons-3-large-text {
+  position: relative;
+  margin: 0 0 1.4rem 0.1rem;
+  display: flex;
+  padding: 0.5rem 0;
+  width: 31.3rem;
+  box-sizing: border-box;
+}
+.forms .by-clicking-the-sig {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.385;
+  color: #969696;
+}
+.forms .privacy-policy {
+  position: absolute;
+  right: 5.2rem;
+  bottom: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.385;
+  color: #007BFF;
+}
+.forms .terms-of-use {
+  position: absolute;
+  left: 5.2rem;
+  bottom: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.385;
+  color: #007BFF;
+}
+.forms .terms {
+  position: relative;
+  margin: 0 0 1.3rem 0.1rem;
+  display: flex;
+  align-self: center;
+  box-sizing: border-box;
+}
+.forms .color {
+  background: #E4E4E4;
+  width: 31.3rem;
+  height: 0.1rem;
+}
+.forms .line-1-px {
+  position: relative;
+  margin: 0 0 1.3rem 0.1rem;
+  display: flex;
+  width: 31.3rem;
+  height: 0.1rem;
+  box-sizing: border-box;
+}
+.forms .have-an-account {
+  margin-right: 1.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .log-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #007BFF;
+}
+.forms .log-in {
+  position: relative;
+  margin-right: 0rem;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .block {
+  position: relative;
+  margin-right: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2.2rem 2.1rem 1rem 2.1rem;
+  box-sizing: border-box;
+}
+.forms .bg-1 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.forms .profile {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.5rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: #1C1C1C;
+}
+.forms .image {
+  border-radius: 2.5rem;
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  width: 5rem;
+  height: 5rem;
+}
+.forms .userpic-image {
+  margin-right: 1.3rem;
+  display: flex;
+  width: 5rem;
+  height: 5rem;
+  box-sizing: border-box;
+}
+.forms .background-15 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 8.6rem;
+  height: 1.9rem;
+}
+.forms .text-4 {
+  position: relative;
+  margin-right: 0.6rem;
+  width: 6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 0.8rem;
+  line-height: 1.385;
+  color: #FFFFFF;
+}
+.forms .icon-color-2 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+.forms .icons-photo-camera {
+  position: relative;
+  margin: 0.2rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.forms .buttons-1-small-text-right-icon {
+  position: relative;
+  margin: 0 0.2rem 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.4rem 0.6rem;
+  width: 8.6rem;
+  box-sizing: border-box;
+}
+.forms .up-to-1-mb-300-x-300 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.385;
+  color: #969696;
+}
+.forms .container {
+  margin: 0.7rem 0.4rem 0.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.forms .border-radius {
+  width: 1.9rem;
+  height: 1.9rem;
+}
+.forms .buttons-1-small-text-right-icon-1 {
+  margin: 0.7rem 0 2.4rem 0;
+  display: flex;
+  width: 1.9rem;
+  height: 1.9rem;
+  box-sizing: border-box;
+}
+.forms .container-6 {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .label-7 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-11 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-6 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-6 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-7 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-6 {
+  margin-right: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .label-8 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-12 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-7 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-7 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-8 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-7 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .container-4 {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .label-6 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-10 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.forms .text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .forms-1-inputs-3-overrides-text-default-5 {
+  opacity: 0.4;
+  box-sizing: border-box;
+}
+.forms .left-5 {
+  position: relative;
+  margin-right: 0.9rem;
+  width: 13.6rem;
+  box-sizing: border-box;
+}
+.forms .icon-color-1 {
+  width: 0.7rem;
+  height: 0.8rem;
+}
+.forms .right-1 {
+  position: relative;
+  margin: 0.3rem 0;
+  display: flex;
+  width: 1.8rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-6 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0.9rem 0.5rem 0.6rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-5 {
+  margin-right: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .label-5 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-9 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-4 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-4 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-5 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-4 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .container-1 {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .label-9 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-13 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-8 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-8 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-9 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-8 {
+  margin-right: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .label-10 {
+  margin-bottom: 0.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #545454;
+}
+.forms .background-14 {
+  border-radius: 0.4rem;
+  position: relative;
+  width: 15.3rem;
+  height: 2.4rem;
+}
+.forms .forms-1-inputs-3-overrides-text-default-9 {
+  opacity: 0.4;
+  width: 12.3rem;
+  height: 1.4rem;
+}
+.forms .left-9 {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  display: flex;
+  width: 13.6rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .input-10 {
+  position: relative;
+  display: flex;
+  width: 15.3rem;
+  height: 2.4rem;
+  box-sizing: border-box;
+}
+.forms .forms-1-inputs-1-border-input-label-9 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.forms .container-3 {
+  position: relative;
+  margin-bottom: 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.forms .background-8 {
+  border-radius: 0.4rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 9.4rem;
+  height: 2.4rem;
+}
+.forms .text-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0rem;
+  line-height: 1.467;
+  color: #FFFFFF;
+}
+.forms .buttons-3-large-text-1 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0.5rem 0;
+  width: 9.4rem;
+  box-sizing: border-box;
+}
+.forms .block-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 2.2rem 2.2rem 6.5rem 2.2rem;
+  box-sizing: border-box;
+}
+.forms {
+  background: #F7F7F7;
+  display: flex;
+  flex-direction: row;
+  padding: 3.4rem 8.4rem;
+  width: 90rem;
+  box-sizing: border-box;
+}
